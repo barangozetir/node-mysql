@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barangozetir/nodejs-mysql.git"
+    "url": "git+https://github.com/barangozetir/node-mysql.git"
   },
   "keywords": [
     "nodejs",
